@@ -1,19 +1,13 @@
-# todo-app
+# ToDo APP created by Camilo Sanchez
 
-## Project setup
-```
-npm install
-```
+ToDo app created using Vue 3, composition api, sass, Vuex and localStorage
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Dependencies
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- node_modules `npm install`
+- uuid `npm install uuid`
+- fontawesome `npm i --save @fortawesome/fontawesome-svg-core`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Start
+
+`npm run serve`
